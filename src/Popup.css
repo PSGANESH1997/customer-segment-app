@@ -1,0 +1,73 @@
+.over-all-component {
+    display: grid;
+    grid-template-rows: 8% 83% 9%;
+    height: 100vh !important;
+    width: 100%;
+}
+
+.css-rizt0-MuiTypography-root {
+    line-height: 1;
+}
+
+.popup {
+    justify-content: center;
+    padding: 9px;
+}
+
+.header-component {
+    background-color: #15b998;
+}
+
+.header-text {
+    color: #ffffff;
+}
+
+.arrow-icon {
+    color: #ffffff !important;
+    margin-right: 7px !important;
+    width: 20px !important;
+    height: 15px !important;
+    font-size: 20px !important;
+}
+
+.body-components {
+    justify-content: flex-start;
+    width: 100%;
+    padding: 10px 15px;
+}
+
+.text-field-component {
+    margin-top: 10px !important;
+}
+
+.custom-save-segment-button {
+    color: #ffffff !important;
+    text-transform: none !important;
+    background-color: #10b0a7 !important;
+}
+
+.custom-cancel-button {
+    margin-left: 30px !important;
+    color: #ff0000 !important;
+    background-color: #ffffff !important;
+    border-color: #ebe2e2 !important;
+    text-transform: none !important;
+}
+
+.css-1f8m9gw {
+    padding: 0px !important;
+    text-align: unset !important;
+}
+
+.add-schema-button {
+    margin-bottom: 20px !important;
+    text-transform: none !important;
+    border: #ffffff !important;
+    text-decoration: underline !important;
+    color: #08ba67 !important;
+    font-size: 15px !important;
+}
+
+.footer-component {
+    background-color: #dee3e3 !important;
+}
